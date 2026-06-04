@@ -3,8 +3,8 @@
 ---
 
 ![Projeto](https://img.shields.io/badge/Projeto-CurriculoWeb-blue)
-![Materialize](https://img.shields.io/badge/Materialize-CSS-EE6E73?logo=materializecss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
+![Framework](https://img.shields.io/badge/Framework-Materialize-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-Concluido-green)
 
 Este é um projeto de currículo online desenvolvido com Framework Materialize.
