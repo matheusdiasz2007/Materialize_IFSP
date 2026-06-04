@@ -11,8 +11,13 @@ Este é um projeto de currículo online desenvolvido com Framework Materialize.
 O objetivo foi criar uma apresentação moderna, responsiva e visualmente agradável das minhas habilidades, objetivos e contatos profissionais.
 
 ---
+## 🔬 Acesso online
 
-## 🚀 Demonstração
+👉 **[Clique aqui para acessar o Projeto.](https://matheusdiasz2007.github.io/Materialize_IFSP/)**
+
+---
+
+## 💻 Demonstração
 
 📌 Projeto de currículo web com design moderno, navegação responsiva e seções organizadas:
 
