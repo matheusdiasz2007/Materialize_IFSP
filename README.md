@@ -72,10 +72,13 @@ Links diretos para:
 
 ---
 
-## 📸 Preview do projeto
+## 👨‍💻 Autor
 
-> *(adicione aqui uma imagem do projeto depois)*
+**Matheus Dias Pereira**
 
-Exemplo:
-```md
-![Preview do projeto](assets/preview.png)
+Software Engineer | FullStack Developer
+
+GitHub:
+https://github.com/matheusdiasz2007
+
+---
