@@ -1,6 +1,13 @@
 # 💼 Currículo Web - Matheus Dias Pereira
 
-Este é um projeto de currículo online desenvolvido com HTML, CSS e Materialize CSS.  
+---
+
+![Projeto](https://img.shields.io/badge/Projeto-CurriculoWeb-blue)
+![Materialize](https://img.shields.io/badge/Materialize-CSS-EE6E73?logo=materializecss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Concluido-green)
+
+Este é um projeto de currículo online desenvolvido com Framework Materialize.
 O objetivo foi criar uma apresentação moderna, responsiva e visualmente agradável das minhas habilidades, objetivos e contatos profissionais.
 
 ---
