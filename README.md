@@ -4,6 +4,7 @@
 
 ![Projeto](https://img.shields.io/badge/Projeto-CurriculoWeb-blue)
 ![Framework](https://img.shields.io/badge/Framework-Materialize-orange)
+![Objetivo](https://img.shields.io/badge/Objetivo-DesenvolvimentoWeb-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-Concluido-green)
 
