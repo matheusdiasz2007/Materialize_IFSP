@@ -65,12 +65,6 @@ Seção destacando minha área de atuação desejada:
 ### 🌍 Idiomas
 Tabela com níveis de proficiência e barras de progresso animadas.
 
-### 📬 Contato
-Links diretos para:
-- LinkedIn
-- E-mail
-- WhatsApp
-
 ---
 
 ## 👨‍💻 Autor
