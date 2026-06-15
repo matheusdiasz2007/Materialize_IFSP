@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" width="150" />
+</p>
+
 # 💼 Currículo Web - Matheus Dias Pereira
 
 ---
