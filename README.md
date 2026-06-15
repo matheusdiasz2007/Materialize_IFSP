@@ -2,15 +2,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" width="150" />
 </p>
 
-# 💼 Currículo Web - Matheus Dias Pereira
-
----
-
+<div align="center">
+  
 ![Projeto](https://img.shields.io/badge/Projeto-CurriculoWeb-blue)
 ![Framework](https://img.shields.io/badge/Framework-Materialize-orange)
-![Objetivo](https://img.shields.io/badge/Objetivo-DesenvolvimentoWeb-red)
+![Objetivo](https://img.shields.io/badge/Objetivo-DesenvolvimentoWeb-pink)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-Concluido-green)
+
+</div>
+
+# 💼 Currículo Web - Matheus Dias Pereira
 
 Este é um projeto de currículo online desenvolvido com Framework Materialize.
 O objetivo foi criar uma apresentação moderna, responsiva e visualmente agradável das minhas habilidades, objetivos e contatos profissionais.
