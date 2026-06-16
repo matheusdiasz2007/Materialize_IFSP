@@ -22,11 +22,9 @@ body {
 h3, h5 {
     text-align: center;
 }
-
 h3 {
     margin-top: 0;
 }
-
 h5 {
     color: #00695c;
     font-weight: 700;
@@ -34,69 +32,29 @@ h5 {
     margin-bottom: 22px;
 }
 
-.dark-box {
-    background-color: #121212;
-    border: none;
-}
-
 /* Espaçamento */
 .section {
     margin-top: 38px;
-}
-
-/* Tabela mais bonita */
-table {
-    background-color: #ffffff;
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-/* Badge alinhado */
-.badge {
-    margin-left: 10px;
-}
-
-/* Hover suave nos itens */
-.collection-item:hover {
-    background-color: #e0f2f1;
-    transition: 0.3s;
-}
-
-/* Card do objetivo profissional */
-.curriculo-card {
-    border-radius: 8px;
-}
-
-.curriculo-card .card-action {
-    padding-top: 0;
-}
-
-.objetivo-lista {
-    margin-bottom: 0;
 }
 
 /* NAVBAR */
 nav {
     margin-bottom: 20px;
 }
-
 .main-nav {
     background: linear-gradient(90deg, #004d40 0%, #00897b 54%, #26a69a 100%);
     box-shadow: 0 10px 28px rgba(0, 77, 64, 0.28);
 }
-
 .main-nav .brand-logo {
     display: flex;
     align-items: center;
     gap: 8px;
     font-weight: 700;
 }
-
 .main-nav .brand-logo i {
     height: 64px;
     line-height: 64px;
 }
-
 .nav-links a {
     border-radius: 999px;
     height: 40px;
@@ -104,22 +62,18 @@ nav {
     margin-top: 12px;
     transition: background-color 0.25s ease, transform 0.25s ease;
 }
-
 .nav-links a:hover {
     background-color: rgba(255, 255, 255, 0.18);
     transform: translateY(-2px);
 }
-
 .nav-links i.left {
     height: 40px;
     line-height: 40px;
     margin-right: 6px;
 }
-
 .sidenav {
     background: #f8fbfa;
 }
-
 .sidenav li a {
     color: #00695c;
     font-weight: 600;
@@ -131,7 +85,6 @@ nav {
     grid-template-columns: repeat(4, minmax(130px, 1fr));
     gap: 18px;
 }
-
 .tech-card {
     position: relative;
     isolation: isolate;
@@ -148,7 +101,6 @@ nav {
     gap: 9px;
     transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
 }
-
 .tech-card::before {
     content: "";
     position: absolute;
@@ -158,17 +110,14 @@ nav {
     transition: transform 0.7s ease;
     z-index: -1;
 }
-
 .tech-card:hover {
     border-color: rgba(0, 137, 123, 0.35);
     box-shadow: 0 18px 34px rgba(0, 105, 92, 0.16);
     transform: translateY(-7px);
 }
-
 .tech-card:hover::before {
     transform: translateX(120%);
 }
-
 .tech-card img {
     width: 72px;
     height: 72px;
@@ -176,21 +125,17 @@ nav {
     filter: drop-shadow(0 10px 12px rgba(38, 50, 56, 0.12));
     transition: transform 0.35s ease;
 }
-
 .tech-card:hover img {
     transform: scale(1.08) rotate(-3deg);
 }
-
 .tech-card strong {
     color: #004d40;
     font-size: 1.05rem;
 }
-
 .tech-card small {
     color: #546e7a;
     font-weight: 500;
 }
-
 .tech-glow {
     position: absolute;
     top: -42px;
@@ -210,33 +155,27 @@ nav {
     color: #ffffff;
     box-shadow: 0 18px 36px rgba(0, 77, 64, 0.22);
 }
-
 .objective-card .card-content {
     padding: 30px;
 }
-
 .objective-card .card-title {
     color: #ffffff;
     font-weight: 700;
 }
-
 .objective-card p {
     color: rgba(255, 255, 255, 0.92);
     font-size: 1.06rem;
     line-height: 1.75;
 }
-
 .objective-card .card-action {
     border-top: 1px solid rgba(255, 255, 255, 0.18);
     padding: 18px 24px 24px;
 }
-
 .objective-focus {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
 }
-
 .objective-focus div {
     display: flex;
     align-items: center;
@@ -248,87 +187,8 @@ nav {
     backdrop-filter: blur(5px);
     font-weight: 600;
 }
-
 .objective-focus i {
     color: #ffe082;
-}
-
-/* Idiomas */
-.language-panel {
-    overflow: hidden;
-    border-radius: 8px;
-    background: #ffffff;
-    box-shadow: 0 14px 32px rgba(38, 50, 56, 0.09);
-}
-
-.language-table {
-    margin: 0;
-}
-
-.language-table thead {
-    background: #004d40;
-    color: #ffffff;
-}
-
-.language-table th {
-    padding: 18px;
-    font-size: 1rem;
-}
-
-.language-table td {
-    padding: 18px;
-    border-bottom: 1px solid #edf2f1;
-}
-
-.language-table tbody tr {
-    transition: background-color 0.25s ease;
-}
-
-.language-table tbody tr:hover {
-    background-color: #f0faf8;
-}
-
-.language-name {
-    color: #263238;
-    font-weight: 700;
-}
-
-.level-pill {
-    display: inline-block;
-    min-width: 132px;
-    border-radius: 999px;
-    padding: 6px 14px;
-    color: #ffffff;
-    font-weight: 700;
-    font-size: 0.86rem;
-}
-
-.level-pill.advanced {
-    background: #00897b;
-}
-
-.level-pill.intermediate {
-    background: #1976d2;
-}
-
-.level-pill.future {
-    background: #7b1fa2;
-}
-
-.progress-bar {
-    width: min(260px, 100%);
-    height: 7px;
-    margin: 10px auto 0;
-    overflow: hidden;
-    border-radius: 999px;
-    background: #e8eeee;
-}
-
-.progress-bar span {
-    display: block;
-    height: 100%;
-    border-radius: inherit;
-    background: linear-gradient(90deg, #26a69a, #ffd54f);
 }
 
 /* ScrollSpy ativo */
@@ -347,27 +207,18 @@ html {
     .tech-grid {
         grid-template-columns: repeat(2, minmax(140px, 1fr));
     }
-
     .objective-focus {
         grid-template-columns: 1fr;
     }
 }
-
 @media (max-width: 600px) {
     .main-nav .brand-logo {
         font-size: 1.35rem;
     }
-
     .tech-grid {
         grid-template-columns: 1fr;
     }
-
     .objective-card .card-content {
         padding: 24px;
-    }
-
-    .language-table td,
-    .language-table th {
-        padding: 14px 10px;
     }
 }

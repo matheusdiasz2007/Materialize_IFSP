@@ -1,16 +1,14 @@
 // Inicialização do Materialize
 document.addEventListener('DOMContentLoaded', function () {
+    console.log("%c✅ Currículo Web carregado com sucesso!", "color: #26a69a; font-weight: bold");
 
-    console.log("Currículo carregado com sucesso!");
-
-    // MENU SIDENAV
+    // Menu Mobile
     const sidenav = document.querySelectorAll('.sidenav');
     M.Sidenav.init(sidenav);
 
-    // SCROLLSPY
+    // ScrollSpy
     const scrollspy = document.querySelectorAll('.scrollspy');
     M.ScrollSpy.init(scrollspy, {
         scrollOffset: 80
     });
-
 });
