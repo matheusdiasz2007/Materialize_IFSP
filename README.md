@@ -67,8 +67,7 @@ Seção destacando minha área de atuação desejada:
 - Banco de Dados
 - Cybersegurança
 
-### 🌍 Idiomas
-Tabela com níveis de proficiência e barras de progresso animadas.
+
 
 ---
 
