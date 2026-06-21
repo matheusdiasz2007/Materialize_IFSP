@@ -19,7 +19,7 @@ O objetivo foi criar uma apresentação moderna, responsiva e visualmente agrad�
 ---
 ## 🔬 Acesso online
 
-👉 **[Clique aqui para acessar o Currículo Web.](https://matheusdiasz2007.github.io/Materialize-IFSP/)**
+👉 [Clique aqui para acessar o Currículo Web.](https://matheusdiasz2007.github.io/Materialize-IFSP/)
 
 ---
 
