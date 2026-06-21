@@ -72,11 +72,18 @@ Seção destacando minha área de atuação desejada:
 
 ## 👨‍💻 Autor
 
-**Matheus Dias Pereira**
+### Matheus Dias Pereira
 
-Software Engineer | FullStack Developer
+🎓 Engineer Software
 
-GitHub:
-https://github.com/matheusdiasz2007
+💻 Desenvolvedor Front-End
+
+🔗 GitHub: https://github.com/matheusdiasz2007
+
+🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
+
+⭐ Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento web.
 
 ---
+
+
