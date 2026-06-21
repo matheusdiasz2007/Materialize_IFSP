@@ -7,7 +7,6 @@
 ![Projeto](https://img.shields.io/badge/Projeto-CurriculoWeb-blue)
 ![Framework](https://img.shields.io/badge/Framework-Materialize-orange)
 ![Objetivo](https://img.shields.io/badge/Objetivo-DesenvolvimentoWeb-pink)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=yellow)
 ![Status](https://img.shields.io/badge/Status-Concluido-green)
 
 </div>
@@ -20,7 +19,7 @@ O objetivo foi criar uma apresentação moderna, responsiva e visualmente agrad�
 ---
 ## 🔬 Acesso online
 
-👉 **[Clique aqui para acessar o Projeto.](https://matheusdiasz2007.github.io/Materialize_IFSP/)**
+👉 **[Clique aqui para acessar o Currículo Web.](https://matheusdiasz2007.github.io/Materialize_IFSP/)**
 
 ---
 
@@ -67,8 +66,7 @@ Seção destacando minha área de atuação desejada:
 - Banco de Dados
 - Cybersegurança
 
-### 🌍 Idiomas
-Tabela com níveis de proficiência e barras de progresso animadas.
+
 
 ---
 
