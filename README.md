@@ -32,7 +32,6 @@ O objetivo foi criar uma apresentação moderna, responsiva e visualmente agrad�
 - Seção de tecnologias com cards interativos
 - Objetivo profissional estilizado
 - Tabela de idiomas com barra de progresso
-- Links de contato (LinkedIn, Gmail e WhatsApp)
 - Botão flutuante de e-mail
 - Menu responsivo (mobile + desktop)
 
