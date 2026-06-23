@@ -11,12 +11,15 @@
 
 </div>
 
+---
+
 # 💼 Currículo Web - Matheus Dias Pereira
 
 Este é um projeto de currículo online desenvolvido com Framework Materialize.
 O objetivo foi criar uma apresentação moderna, responsiva e visualmente agradável das minhas habilidades, objetivos e contatos profissionais.
 
 ---
+
 ## 🔬 Acesso online
 
 👉 [Clique aqui para acessar o Currículo Web.](https://matheusdiasz2007.github.io/Materialize-IFSP/)
