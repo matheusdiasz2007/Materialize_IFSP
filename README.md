@@ -79,8 +79,6 @@ Seção destacando minha área de atuação desejada:
 
 🎓 Engineer Software
 
-💻 Desenvolvedor Front-End
-
 🔗 GitHub: https://github.com/matheusdiasz2007
 
 🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
